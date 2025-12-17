@@ -1,0 +1,20 @@
+{
+  "name": "js20251213-domtask4",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/alexjakstas/JS20251213-DOMtask4#readme",
+  "bugs": {
+    "url": "https://github.com/alexjakstas/JS20251213-DOMtask4/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexjakstas/JS20251213-DOMtask4.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
